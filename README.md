@@ -1,16 +1,12 @@
-# Portfolio
+# Personnal Project
 
-## Personnal Project
+## Litte Horses
 
-### Litte Horses
+# School Projects
 
-## School Projects
+## soLong
 
-### soLong
-
-A 2D isometric game
-
-#### Description
+A 2D isometric game.
 
 It is a 42 school project, developped in C with the school graphic library, the minilibx.
 
@@ -23,4 +19,12 @@ You can move with WASD keys or arrows.
 
 [Play SoLong](./soLong.html)
 
-### minirt
+## minirt
+
+A basic ray-tracing engine.
+
+It is a 42 school project, developped in C with the school graphic library, the minilibx.
+
+You can generate static scenes composed of plans, sphere or cylinders. There can be several light sources, with different colors.
+![miniRT](./assets/img/miniRT_caterpillar.png) 
+![miniRT](./assets/img/miniRT_columns.png)
