@@ -19,7 +19,8 @@ You have to pick up all the marbles in order to open the exit, and you can try t
 
 You can move with WASD keys or arrows.
 
-<p align="center"><img src="https://github.com/WickiRiama/wickiriama.github.io/blob/main/assets/img/SoLong.gif"></p>
+![SoLong](https://github.com/WickiRiama/wickiriama.github.io/blob/main/assets/img/SoLong.gif)
+
 
 #### Getting Started
 
