@@ -2,6 +2,8 @@
 
 ## Litte Horses
 
+[Play Little Horses](https://github.com/WickiRiama/French_ludo/tree/main/Build_Nav/index.html)
+
 # School Projects
 
 ## soLong
