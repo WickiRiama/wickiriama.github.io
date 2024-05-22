@@ -20,12 +20,13 @@ It is a 42 school project, developped in C with the school graphic library, the 
 
 [Play SoLong](./soLong.html)
 
-## minirt
+## miniRT
 
 A basic ray-tracing engine.
 
 It is a 42 school project, developped in C with the school graphic library, the minilibx.
 
-You can generate static scenes composed of plans, sphere or cylinders. There can be several light sources, with different colors.
 ![miniRT](./assets/img/miniRT_caterpillar.png) 
 ![miniRT](./assets/img/miniRT_columns.png)
+
+[See miniRT](./miniRT.html)
