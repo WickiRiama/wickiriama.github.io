@@ -10,6 +10,8 @@ A 3D boardgame
 
 It is a personnal project, developped in C# with Unity.
 
+![LittleHorses](./assets/img/LittleHorses.png)
+
 [Play Little Horses](./FrenchLudo.html)
 
 # School Projects
