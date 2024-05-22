@@ -21,7 +21,7 @@ You can generate static scenes composed of plans, sphere or cylinders. There can
 ### Installing
 
  ```
- git clone https://github.com/WickiRiama/SoLong.git
+ git clone git@github.com:WickiRiama/miniRT.git
  ```
 
 
@@ -65,7 +65,7 @@ This project was a team project, realized with [lmenigau](https://github.com/lme
 
 ## Github project
 
-[Project](https://github.com/lmenigau/minirt)
+[Project](https://github.com/WickiRiama/miniRT)
 
 ## Back to Portfolio
 
