@@ -1,3 +1,7 @@
+# CV
+
+[My CV](./assets/CV_Margaux_Riant.pdf)
+
 # Personnal Project
 
 ## French Ludo / Litte Horses
