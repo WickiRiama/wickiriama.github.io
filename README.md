@@ -22,7 +22,7 @@ A 2D isometric game.
 
 It is a 42 school project, developped in C with the school graphic library, the minilibx.
 
-![SoLong](https://github.com/WickiRiama/wickiriama.github.io/blob/main/assets/img/SoLong.png)
+![SoLong](./assets/img/SoLong.png)
 
 [Play SoLong](./soLong.html)
 
