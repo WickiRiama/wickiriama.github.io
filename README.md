@@ -2,7 +2,13 @@
 
 ## Litte Horses
 
-[Play Little Horses](/Build_Nav/index.html)
+# French Ludo / Les petits chevaux
+
+A 3D boardgmae
+
+It is a personnal project, developped in C# with Unity.
+
+[Play Little Horses](./FrenchLudo.html)
 
 # School Projects
 
@@ -11,11 +17,6 @@
 A 2D isometric game.
 
 It is a 42 school project, developped in C with the school graphic library, the minilibx.
-
-You are a grandmother trying to find her marbles in a forest.
-You have to pick up all the marbles in order to open the exit, and you can try to do it with the less possible moves.
-
-You can move with WASD keys or arrows.
 
 ![SoLong](https://github.com/WickiRiama/wickiriama.github.io/blob/main/assets/img/SoLong.gif)
 
