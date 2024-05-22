@@ -1,10 +1,8 @@
 # Personnal Project
 
-## Litte Horses
+## French Ludo / Litte Horses
 
-# French Ludo / Les petits chevaux
-
-A 3D boardgmae
+A 3D boardgame
 
 It is a personnal project, developped in C# with Unity.
 
