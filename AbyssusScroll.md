@@ -9,7 +9,9 @@ It is a [Studio Ouebsson](https://studio.ouebsson.fr/) game, developped in Javas
 You play as an Aby, an Octaly (an octopuss like intelligent being). Your goal is to escape the Kraken, coming from above, and avoid falling too far in the deeps.
 You earn points by collecting ressources on the way down.
 
-<img src="./assets/img/AbyssusScroll.jpg" alt="Abyssus Scroll" width="250"/>
+<center>
+    <img src="./assets/img/AbyssusScroll.jpg" alt="Abyssus Scroll" width="250"/>
+</center>
 
 The game has an infinite number of levels, and you can compete against other players in the leaderboard.
 

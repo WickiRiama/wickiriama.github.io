@@ -11,7 +11,9 @@ I had the opportunity to work on two games: Abyssus Scroll and Abyssus Deep Unde
 
 A 2D vertical platformer.
 
-<img src="./assets/img/AbyssusScroll.jpg" alt="Abyssus Scroll" width="250"/>
+<center>
+    <img src="./assets/img/AbyssusScroll.jpg" alt="Abyssus Scroll" width="250"/>
+</center>
 
 [Play Abyssus Scroll](./AbyssusScroll.html)
 
