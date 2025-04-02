@@ -2,7 +2,20 @@
 
 [My CV](./assets/CV_Margaux_Riant.pdf)
 
-# Personnal Project
+# Studio Ouebsson
+
+I did a 6 months internship at [Studio Ouebsson](https://studio.ouebsson.fr/).
+I had the opportunity to work on two games: Abyssus Scroll and Abyssus Deep Under.
+
+## Abyssus Scroll
+
+A 2D vertical platformer.
+
+<img src="./assets/img/AbyssusScroll.jpg" alt="Abyssus Scroll" width="250"/>
+
+[Play Abyssus Scroll](./AbyssusScroll.html)
+
+# Personnal Projects
 
 ## Bubble Tearapy
 
