@@ -4,6 +4,16 @@
 
 # Personnal Project
 
+## Bubble Tearapy
+
+A 2D point and click scrolling game.
+
+It is a GameJam project, developped in Typescript and PHP with Phaser.
+
+![BubbleTearapy](./assets/img/bubbletearapy.png)
+
+[Play Bubble Tearapy](./BubbleTearapy.html)
+
 ## French Ludo / Litte Horses
 
 A 3D boardgame
