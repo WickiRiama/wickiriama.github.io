@@ -17,6 +17,16 @@ A 2D vertical platformer.
 
 [Play Abyssus Scroll](./AbyssusScroll.html)
 
+## Abyssus Deep Under
+
+A 2D isometric MMO RTS/4X Game.
+
+<center>
+    <img src="./assets/img/logoADU.png" alt="Abyssus Scroll" width="250"/>
+</center>
+
+[Know more about Abyssus Deep Under](./AbyssusDeepUnder.html)
+
 # Personnal Projects
 
 ## Bubble Tearapy
