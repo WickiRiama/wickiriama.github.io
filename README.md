@@ -1,6 +1,6 @@
-# CV
+# Resume
 
-[My CV](./assets/CV_Margaux_Riant.pdf)
+[My resume](./assets/CV_Margaux_Riant.pdf)
 
 # Studio Ouebsson
 
