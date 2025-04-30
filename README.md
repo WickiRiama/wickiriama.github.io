@@ -1,3 +1,7 @@
+---
+title: Margaux Riant - Portfolio
+---
+
 # CV
 
 [My CV](./assets/CV_Margaux_Riant.pdf)
