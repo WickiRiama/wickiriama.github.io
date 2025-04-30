@@ -6,7 +6,7 @@ A 2D vertical platformer.
 
 It is a [Studio Ouebsson](https://studio.ouebsson.fr/) game, developped in Javascript and PHP with Phaser.
 
-You play as an Aby, an Octaly (an octopuss like intelligent being). Your goal is to escape the Kraken, coming from above, and avoid falling too far in the deeps.
+You play as Aby, an Octaly (an octopuss like intelligent being). Your goal is to escape the Kraken, coming from above, and avoid falling too far in the deeps.
 You earn points by collecting ressources on the way down.
 
 <center>
