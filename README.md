@@ -1,7 +1,3 @@
-# Resume
-
-[My resume](./assets/CV_Margaux_Riant.pdf)
-
 # Studio Ouebsson
 
 I did a 6 months internship at [Studio Ouebsson](https://studio.ouebsson.fr/).
