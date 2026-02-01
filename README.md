@@ -17,21 +17,21 @@ I had the opportunity to work on two games: Abyssus Scroll and Abyssus Deep Unde
 
 A 2D vertical platformer.
 
+[Play Abyssus Scroll](./AbyssusScroll.html)
+
 <center>
     <img src="./assets/img/AbyssusScroll.jpg" alt="Abyssus Scroll" width="250"/>
 </center>
-
-[Play Abyssus Scroll](./AbyssusScroll.html)
 
 ## Abyssus Deep Under
 
 A 2D isometric MMO RTS/4X Game.
 
+[Know more about Abyssus Deep Under](./AbyssusDeepUnder.html)
+
 <center>
     <img src="./assets/img/logoADU.png" alt="Abyssus Scroll" width="250"/>
 </center>
-
-[Know more about Abyssus Deep Under](./AbyssusDeepUnder.html)
 
 # Personnal Projects
 
