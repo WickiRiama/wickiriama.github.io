@@ -1,3 +1,14 @@
+# Cyanide Studio
+
+I worked for 6 months as an intern at [Cyanide Studio](https://cyanide-studio.com/en/).
+I worked on the UI integration, for the game Pro Cycling Manager 26 (to be released).
+
+The [Pro Cycling Manager](https://www.nacongaming.com/pro-cycling-manager-25) serie of strategy and management games makes you play as the manager of one cyclist team.
+
+<center>
+    <img src="./assets/img/PCM25.jpg" alt="Pro Cycling Manager 25" width="250"/>
+</center>
+
 # Studio Ouebsson
 
 I did a 6 months internship at [Studio Ouebsson](https://studio.ouebsson.fr/).
