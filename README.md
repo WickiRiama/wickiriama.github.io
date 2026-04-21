@@ -5,7 +5,7 @@ I worked for six months as an intern at [Cyanide Studio](https://cyanide-studio.
 The Pro Cycling Manager games are strategy and management games in which the player takes on the role of a professional cycling team manager. 
 
 <center>
-    <img src="./assets/img/PCM25.jpg" alt="Pro Cycling Manager 25" width="350"/>
+    <img src="./assets/img/PCM26.jpg" alt="Pro Cycling Manager 25" width="350"/>
 </center>
 
 # Studio Ouebsson
