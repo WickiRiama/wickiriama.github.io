@@ -1,8 +1,8 @@
 # Cyanide Studio
 
-I worked for six months as an intern at [Cyanide Studio](https://cyanide-studio.com/en/) where I contributed to UI integration for Pro Cycling Manager 26 (upcoming release).
+I worked for six months as an intern at [Cyanide Studio](https://cyanide-studio.com/en/) where I contributed to UI integration for [Pro Cycling Manager 26](https://store.steampowered.com/app/3936530/Pro_Cycling_Manager_26/).
 
-The [Pro Cycling Manager](https://www.nacongaming.com/pro-cycling-manager-25) series is a strategy and management game in which the player takes on the role of a professional cycling team manager.
+The Pro Cycling Manager games are strategy and management games in which the player takes on the role of a professional cycling team manager. 
 
 <center>
     <img src="./assets/img/PCM25.jpg" alt="Pro Cycling Manager 25" width="350"/>
